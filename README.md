@@ -10,8 +10,7 @@ This Tableau story explores global layoffs from 2020–2023, highlighting:
 
 ## 🛠️ Tools Used
 - Tableau Public (interactive dashboards & story)
-- Excel (data cleaning & ratio calculations)
-- SQL (structured queries for data prep)
+- SQL (structured queries for data cleaning and prep)
 
 ## 🔑 Key Insights
 - Layoffs accelerated sharply after 2020, peaking in 2023.
@@ -23,8 +22,9 @@ This Tableau story explores global layoffs from 2020–2023, highlighting:
 ## 🚀 Portfolio Value
 This project demonstrates:
 - Data storytelling with Tableau
+- SQL‑based data preparation
 - Business insight extraction
 - Recruiter‑ready case study presentation
 
 ## 🔗 Live Dashboard
-[View on Tableau Public](your-tableau-public-link-here)
+[View on Tableau Public]([your-tableau-public-link-here](https://public.tableau.com/app/profile/karthikeyan.govindaraj/viz/worldlayoffs_17736061148610/WorldLayoffsStory))
