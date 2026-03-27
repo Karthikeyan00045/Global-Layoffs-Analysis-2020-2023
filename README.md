@@ -28,3 +28,8 @@ This project demonstrates:
 
 ## 🔗 Live Dashboard
 [View on Tableau Public]([your-tableau-public-link-here](https://public.tableau.com/app/profile/karthikeyan.govindaraj/viz/worldlayoffs_17736061148610/WorldLayoffsStory))
+
+# Work With Me
+Explore my recruiter‑ready Tableau dashboards and analytics portfolio.  
+👉 [View my Fiverr Portfolio](https://www.fiverr.com/users/karthikeyang756/portfolio)
+
